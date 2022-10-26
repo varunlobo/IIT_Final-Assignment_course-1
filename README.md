@@ -9,3 +9,6 @@ Our final assignment was to explore seaborn (or matplotlib) library for Explorat
 ![heatmap](https://user-images.githubusercontent.com/114509328/197829426-c15463fa-a5cb-4492-912f-537f46a63de3.jpg)
 
 ![pairplot](https://user-images.githubusercontent.com/114509328/197829403-c24c4d79-7cf1-42cf-850b-65ec6baf79e7.jpg)
+
+
+![pairplot2](https://user-images.githubusercontent.com/114509328/198085773-d6f3d8df-a92f-436b-8d53-dd381ab5831f.jpg)
